@@ -59,7 +59,7 @@ var app = new Framework7({
 		
 	],
 	dialog: {
-		title: 'Rythmica',
+		title: 'CGC',
 		buttonOk: 'Aceptar',
   	},
 	popup: {
